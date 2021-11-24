@@ -3,7 +3,7 @@ s = "III"
 
 #solution
 class Solution:
-    def romanToInt(self, s: str) -> int:
+    def roman_to_int(self, s: str) -> int:
         roman_table = {"I": 1,
                        "V": 5,
                        "X": 10,
