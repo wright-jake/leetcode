@@ -11,3 +11,7 @@ Two Sum:
  
     You can use '[::-1]' to reverse a string
     
+Longest Common Prefix:
+
+    You can use '[1:]' to omit the first item in a list and display the rest
+    
