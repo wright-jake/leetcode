@@ -35,4 +35,10 @@ Binary Search:
     
 Two Sum II:
 
-    For the two pointer technique, the idea is to create left and right pointers and then you can loop through an array with ease
+    For the two pointer technique, the idea is to create left and right pointers and then you can loop 
+    through an array with ease
+    
+Reverse Words in a String II:
+
+    When reversing words in a string, we can implement multiple pointers i.e. two pointers to reverse
+    the whole string and then a fast and slow pointer to reverse each individual word
