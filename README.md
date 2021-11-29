@@ -33,6 +33,6 @@ Binary Search:
     the list, check to see if the target is left or right of it and then create a new midpoint and 
     continue the search
     
-Squares of a Sorted Array:
+Two Sum II:
 
-    For the two pointer technique
+    For the two pointer technique, the idea is to create left and right pointers and then you can loop through an array with ease
