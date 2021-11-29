@@ -32,3 +32,7 @@ Binary Search:
     For a binary search, the idea is to create left and right pointers and then find the midpoint of 
     the list, check to see if the target is left or right of it and then create a new midpoint and 
     continue the search
+    
+Squares of a Sorted Array:
+
+    For the two pointer technique
