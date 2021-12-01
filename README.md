@@ -42,3 +42,12 @@ Reverse Words in a String II:
 
     When reversing words in a string, we can implement multiple pointers i.e. two pointers to reverse
     the whole string and then a fast and slow pointer to reverse each individual word
+    
+Contains Duplicate:
+
+    We can create an empty hashset using 'set()' and can add to this using '.add()'
+
+Two Sum (with hashmap):
+
+    We can use 'enumerate' to return both the index and value, useful for hashmaps where we want to 
+    refer to the index, we can also create an empty hashmap using '{}'
