@@ -51,3 +51,7 @@ Two Sum (with hashmap):
 
     We can use 'enumerate' to return both the index and value, useful for hashmaps where we want to 
     refer to the index, we can also create an empty hashmap using '{}'
+
+Middle of the Linked List:
+    
+    We can use '.next' to iterate pointers across a list instead of '+= 1' 
