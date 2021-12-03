@@ -57,4 +57,8 @@ Middle of the Linked List:
     Each element of a linked list is called a node with two fields (value, reference to next node),
     the first node is called the head, the last node must have it's next reference pointing to none,
     to iterate through linked lists we use '.next'
-    
+
+Fibonacci Number:
+
+    We can create a dictionary using '{}', in this we will have key-value pairs which map the key to 
+    its associated value
