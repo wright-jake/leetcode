@@ -54,4 +54,7 @@ Two Sum (with hashmap):
 
 Middle of the Linked List:
     
-    We can use '.next' to iterate pointers across a list instead of '+= 1' 
+    Each element of a linked list is called a node with two fields (value, reference to next node),
+    the first node is called the head, the last node must have it's next reference pointing to none,
+    to iterate through linked lists we use '.next'
+    
